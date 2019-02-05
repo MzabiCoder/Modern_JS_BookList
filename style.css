@@ -1,0 +1,21 @@
+.success{
+    border: green solid .3rem;
+    width: 60%;
+    padding: 1rem;
+    margin: auto;
+    color:green;
+    font-weight: bold;
+}
+
+.danger{
+    border: red solid .3rem;
+    width: 60%;
+    padding: 1rem;
+    margin: auto;
+    color:red;
+    font-weight: bold;
+}
+
+#output{
+    transition: all .5s ease-in-out
+}
